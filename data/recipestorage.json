@@ -1,0 +1,15 @@
+{
+    "recipes": [
+        {
+            "name": "Test",
+            "description": "Test",
+            "votes": 3
+        },
+        {
+            "name": "big one",
+            "description": "big one",
+            "votes": -1
+        }
+    ],
+    "name": "my recipes"
+}
